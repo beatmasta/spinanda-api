@@ -40,8 +40,11 @@ A brief description of your project.
     ```bash
     npm run start
     ```
+   
+3. API documentation is accessible via URL: [http://localhost:3000/api](http://localhost:3000/api)
 
-3. To stop the database:
+
+4. To stop the database:
     ```bash
     npm run db:kill
     ```
